@@ -1,5 +1,5 @@
 # SPAM PEKOK JS VERSION BETA TEST
-[![TrioPekokBots](https://avatars2.githubusercontent.com/u/46437025?s=460&v=4)](http://line.me/ti/p/~cuma.akun.titipan)
+[![TrioPekokBots](/IMG_20190823_171531.jpg)]( )
 
 # CHAT ME
 <a href="https://line.me/R/ti/p/~cuma.akun.titipan"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
