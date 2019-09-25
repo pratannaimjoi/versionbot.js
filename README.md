@@ -2,7 +2,7 @@
 [![TrioPekokBots](/IMG_20190912_020132.jpg)]( )
 
 # CHAT ME
-< >
+<a href="http://line.me/ti/p/tSOOE2vIkL"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
 
 ## Running in Termux
 ```
