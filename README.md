@@ -2,7 +2,8 @@
 [![TrioPekokBots](/IMG_20190912_020132.jpg)]( )
 
 # CHAT ME
-<a href="https://line.me/R/ti/p/~cuma.akun.titipan"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+<a href="https://line.me/ti/p/nav.cx/2O0YaRR"><img height="36" border="0" alt="Add Friend"<div class="line-it-button" data-lang="th" data-type="like" data-url="https://api.line.me/v2/bot/message/push" data-share="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script
 
 ## Running in Termux
 ```
