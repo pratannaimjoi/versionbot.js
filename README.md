@@ -44,8 +44,8 @@ npm start
 ✍ Open Vps 
 ✍ Token primary 
 ╼━━━━━━─━━━━━━╾
-line.me/ti/p/~cuma.akun.titipan
-line.me/R/ti/p/~please.jan.goblog
+http://line.me/ti/p/tSOOE2vIkL
+http://nav.cx/2O0YaRR
 ╼━━━━━━─━━━━━━╾
 
 ```
