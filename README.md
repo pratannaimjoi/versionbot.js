@@ -5,9 +5,12 @@
 <a href="http://nav.cx/2O0YaRR"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
 <img src="https://qr-official.line.me/sid/M/559mlhga.png">
 # div
-<div class="line-it-button" data-lang="th" data-type="like" data-url="https://api.line.me/v2/bot/message/push" data-share="true" style="display: none;"></div>
- <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script
-
+<div class="line-it-button" data-lang="th" data-type="share-b" data-ver="3" data-url="https://api.line.me/v2/bot/message/reply" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<div class="line-it-button" data-lang="th" data-type="friend" data-lineid="@ 559mlhga" data-count="true" data-home="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<div class="line-it-button" data-lang="th" data-type="like" data-url="https://api.line.me/v2/bot/message/reply" data-share="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 ## Running in Termux
 ```
 pkg update
