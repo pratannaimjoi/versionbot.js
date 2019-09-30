@@ -85,8 +85,11 @@ alt="เพิ่มเพื่อน" height="36" border="0"></a>
         ╼━━━━━━─━━━━━━╾
 
 ```
-     *SPAM PEKOK JS*
-     *Remake by: TRIO PEKOK BOTS*
+## Author
+       Fadhiil naimjoi / [@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
-      - UPDATE IN
-      9 MARET 2019
+      *SPAM pratan-naimjoi JS*
+      *Remake by: TRIO tan BOTS*
+
+       - UPDATE IN
+       9 MARET 2019
