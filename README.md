@@ -86,7 +86,8 @@ alt="เพิ่มเพื่อน" height="36" border="0"></a>
 
 ```
 ## Author
-Fadhiil naimjoi / [@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
+Fadhiil naimjoi / [@pratan-naimjoi]
+(https://www.linkedin.com/in/pratan-naimjoi)
 
 *SPAM pratan-naimjoi JS*
 *Remake by: TRIO tan BOTS*
