@@ -59,34 +59,34 @@ alt="เพิ่มเพื่อน" height="36" border="0"></a>
 ```
 ## For List
 ```
- ╼━━━━━━─━━━━━━╾
-⚜ TRIO PEKOK BOTS ⚜
-   ⚜ Open Order ⚜
- ╼━━━━━━─━━━━━━╾
-  ✍ Selfbot biasa
-  ✍ Selfbot biasa + antijs
-  ✍ Selfbot template
-  ✍ Selfbot template + antijs
-  ✍ Selfbot protect
-  ✍ Selfbot protect + antijs
-  ✍ Bot protect cl
-  ✍ Bot protect cl + antijs
- ╼━━━━━━─━━━━━━╾
-    ⚜ Open Jasa
- ╼━━━━━━─━━━━━━╾
-   ✍ Login bypass
-   ✍ Spam invite
-   ✍ Spam mc
-   ✍ Open Vps 
-   ✍ Token primary 
- ╼━━━━━━─━━━━━━╾
-   http://line.me/ti/p/tSOOE2vIkL
-   http://nav.cx/2O0YaRR
- ╼━━━━━━─━━━━━━╾
-
+     ╼━━━━━━─━━━━━━╾
+     ⚜ TRIO PEKOK BOTS ⚜
+       ⚜ Open Order ⚜
+      ╼━━━━━━─━━━━━━╾
+      ✍ Selfbot biasa
+      ✍ Selfbot biasa + antijs
+      ✍ Selfbot template
+      ✍ Selfbot template + antijs
+      ✍ Selfbot protect
+      ✍ Selfbot protect + antijs
+      ✍ Bot protect cl
+      ✍ Bot protect cl + antijs
+      ╼━━━━━━─━━━━━━╾
+         ⚜ Open Jasa
+      ╼━━━━━━─━━━━━━╾
+      ✍ Login bypass
+      ✍ Spam invite
+      ✍ Spam mc
+      ✍ Open Vps 
+      ✍ Token primary 
+      ╼━━━━━━─━━━━━━╾
+       http://line.me/ti/p/tSOOE2vIkL
+       http://nav.cx/2O0YaRR
+      ╼━━━━━━─━━━━━━╾
 ```
 ## Author
-Fadhiil naimjoi / [@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
+Fadhiil naimjoi /
+[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
 *SPAM pratan-naimjoi JS*
 *Remake by: TRIO tan BOTS*
