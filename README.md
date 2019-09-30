@@ -84,11 +84,11 @@ alt="เพิ่มเพื่อน" height="36" border="0"></a>
        http://nav.cx/2O0YaRR
       ╼━━━━━━─━━━━━━╾
 ```
-## Author
- Fadhiil naimjoi/[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
+` Author
+  Fadhiil naimjoi/[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
- SPAM pratan-naimjoi JS
- Remake by: TRIO tan BOTS
+  SPAM pratan-naimjoi JS
+  Remake by: TRIO tan BOTS
 
- - UPDATE IN
- 9 MARET 2019
+  - UPDATE IN
+  9 MARET 2019
