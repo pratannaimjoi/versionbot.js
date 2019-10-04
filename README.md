@@ -1,10 +1,9 @@
 # SPAM pratannaimjoi.js VERSION BETA TEST
 [![TrioPekokBots](/IMG_20190912_020132.jpg)]( )
 
-[![TrioPekokBots](/IMG_20190912_020132.jpg)]( )
+# lineapi [![TrioPekokBots](/square-default.png)]( )
 
-
-# lineapi <a href="http://nav.cx/BITI7pI"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
+               <a href="http://nav.cx/BITI7pI"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
                     <img src="https://qr-official.line.me/sid/M/642xtzwc.png">
               <a href="http://line.me/ti/p/~tanline/sm.png"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
                 <div class="line-it-button" data-lang="th" data-type="share-b" data-ver="3" data-url="https://api.line.me/message/v3/share" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
