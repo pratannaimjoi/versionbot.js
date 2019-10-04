@@ -1,5 +1,5 @@
 # SPAM pratannaimjoi.js NEW VERSION BETA 
-[![TrioPekokBots](/IMG_20190912_020132.jpg)]( )
+[![TrioPekokBots](/PhotoGrid_1570200983122.jpg)]( )
 
 # lineapi [![TrioPekokBots](/square-default.png)]( )
 
