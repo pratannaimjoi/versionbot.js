@@ -67,8 +67,8 @@
        http://line.me/ti/p/tSOOE2vIkL
        http://nav.cx/2O0YaRR
       ╼━━━━━━─━━━━━━╾
-```
-## Author
+
+##  Author
 @tanpattaya/[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
 SPAM pratan-naimjoi JS
