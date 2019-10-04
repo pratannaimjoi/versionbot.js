@@ -1,4 +1,4 @@
-# SPAM pratannaimjoi.js VERSION BETA TEST
+# SPAM pratannaimjoi.js NEW VERSION BETA 
 [![TrioPekokBots](/IMG_20190912_020132.jpg)]( )
 
 # lineapi [![TrioPekokBots](/square-default.png)]( )
