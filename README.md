@@ -68,7 +68,7 @@
        http://nav.cx/2O0YaRR
       ╼━━━━━━─━━━━━━╾
 ```
-# Author
+## Author
 @tanpattaya/[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
 SPAM pratan-naimjoi JS
