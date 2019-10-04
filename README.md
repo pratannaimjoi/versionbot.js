@@ -42,8 +42,8 @@
 
        npm start
 
-```
-##  Author
+
+## Author
 @tanpattaya/[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
 SPAM pratan-naimjoi JS
