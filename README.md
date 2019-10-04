@@ -44,28 +44,28 @@
 ## For List
 ```
      ╼━━━━━━─━━━━━━╾
-     ⚜ TRIO PEKOK BOTS ⚜
-       ⚜ Open Order ⚜
+     📌 TRIO tan BOTS 📌
+       💘 Open Order 💘
       ╼━━━━━━─━━━━━━╾
-      ✍ Selfbot biasa
-      ✍ Selfbot biasa + antijs
-      ✍ Selfbot template
-      ✍ Selfbot template + antijs
-      ✍ Selfbot protect
-      ✍ Selfbot protect + antijs
-      ✍ Bot protect cl
-      ✍ Bot protect cl + antijs
+      🌺 Selfbot biasa🌺
+      🌺 Selfbot biasa + antijs🌺
+      🌺 Selfbot template
+      🌺 Selfbot template + antijs🌺
+      🌺 Selfbot protect
+      🌺 Selfbot protect + antijs🌺
+      🌺 Bot protect cl
+      🌺 Bot protect cl + antijs🌺
       ╼━━━━━━─━━━━━━╾
-         ⚜ Open Jasa
+         📌 Open Jasa📌
       ╼━━━━━━─━━━━━━╾
-      ✍ Login bypass
-      ✍ Spam invite
-      ✍ Spam mc
-      ✍ Open Vps 
-      ✍ Token primary 
+      🌷 Login bypass🌷
+      🌷 Spam invite🌷
+      🌷 Spam mc🌷
+      🌷 Open Vps🌷 
+      🌷 Token primary🌷 
       ╼━━━━━━─━━━━━━╾
-       http://line.me/ti/p/tSOOE2vIkL
-       http://nav.cx/2O0YaRR
+      http://line.me/ti/p/tSOOE2vIkL
+      http://nav.cx/2O0YaRR
       ╼━━━━━━─━━━━━━╾
 
 ##  Author
