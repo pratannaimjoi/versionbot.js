@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>SILENTJS/README.md at master · InexBots/SILENTJS</title>
+  <title>SILENTJS/.gitlab-ci.yml at master · InexBots/SILENTJS</title>
     <meta name="description" content="Contribute to InexBots/SILENTJS development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,9 +38,9 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/43498952?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="InexBots/SILENTJS" /><meta property="og:url" content="https://github.com/InexBots/SILENTJS" /><meta property="og:description" content="Contribute to InexBots/SILENTJS development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDQxNTI5MjUzOmI2NDVlYzM0ZGYyYjZjYzQwOGQ5ODZjY2MxNzdkOWFmMTFmMGVlNGJkODE0YjhhNGY4ZDE2NWRmNTg5NmRmZDc=--c4ec6c25d93b56b482fd99be27a3ddb5c5b97b48">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDQxNTI5MjUzOjljZmJmNmYyNDYzNDFhMzczODE1MDY2ZTlmZTJiMTg5N2IyZjY4ZGYzYzgzNDgyNzZlZjA5NmFhNTQ1MDc4ZDI=--bc96bd395b980d11913bfdccf891e9c0274919bb">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="98D2:2EBA:12316:1AD2C:5D9F42EB" data-pjax-transient>
+  <meta name="request-id" content="98D2:2EBA:11FF6:1A963:5D9F42BF" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="98D2:2EBA:12316:1AD2C:5D9F42EB" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7492215869818542630" /><meta name="octolytics-actor-id" content="52064201" /><meta name="octolytics-actor-login" content="tanpattaya" /><meta name="octolytics-actor-hash" content="7e2465c230c6dd6b783aa4dacb81191dcdf8c83b4a3a27887b368af1008856af" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="98D2:2EBA:11FF6:1A963:5D9F42BF" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7492215869818542630" /><meta name="octolytics-actor-id" content="52064201" /><meta name="octolytics-actor-login" content="tanpattaya" /><meta name="octolytics-actor-hash" content="7e2465c230c6dd6b783aa4dacb81191dcdf8c83b4a3a27887b368af1008856af" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="tanpattaya">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MTJiYTY2Zjg5NzM4MWJmYWMwMDM5MzIwZTA0ZTE5NmViZWM4ZGJhMDcxM2U1NjUzNDU1YTY2NzMzNDExZWE0ZXx7InJlbW90ZV9hZGRyZXNzIjoiNDkuNDguNDkuMTQzIiwicmVxdWVzdF9pZCI6Ijk4RDI6MkVCQToxMjMxNjoxQUQyQzo1RDlGNDJFQiIsInRpbWVzdGFtcCI6MTU3MDcxODQ1NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="YzgzNGQyY2MzMWEyYTc3MTVlNzJhZTgyY2M2NTg3MDRkZjA2ZjdhYWM1MjFkOGNjNWNiYzY1YWVlMjlkOTIxN3x7InJlbW90ZV9hZGRyZXNzIjoiNDkuNDguNDkuMTQzIiwicmVxdWVzdF9pZCI6Ijk4RDI6MkVCQToxMUZGNjoxQTk2Mzo1RDlGNDJCRiIsInRpbWVzdGFtcCI6MTU3MDcxODQwMCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -87,7 +87,7 @@
   <meta name="octolytics-dimension-user_id" content="43498952" /><meta name="octolytics-dimension-user_login" content="InexBots" /><meta name="octolytics-dimension-repository_id" content="191553378" /><meta name="octolytics-dimension-repository_nwo" content="InexBots/SILENTJS" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="145588832" /><meta name="octolytics-dimension-repository_parent_nwo" content="dhenza1415/SILENTJS" /><meta name="octolytics-dimension-repository_network_root_id" content="145588832" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dhenza1415/SILENTJS" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/InexBots/SILENTJS/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/InexBots/SILENTJS/blob/master/.gitlab-ci.yml" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -145,7 +145,7 @@
   <div class="position-relative">
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="191553378" data-scoped-search-url="/InexBots/SILENTJS/search" data-unscoped-search-url="/search" action="/InexBots/SILENTJS/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control input-sm header-search-wrapper p-0  js-chromeless-input-container">
-            <a class="header-search-scope no-underline" href="/InexBots/SILENTJS/blob/master/README.md">This repository</a>
+            <a class="header-search-scope no-underline" href="/InexBots/SILENTJS/blob/master/.gitlab-ci.yml">This repository</a>
         <input type="text"
           class="form-control input-sm header-search-input  js-site-search-focus js-site-search-field is-clearable"
           data-hotkey="s,/"
@@ -189,7 +189,7 @@
       <img class="avatar" height="20" width="20" alt="@tanpattaya" src="https://avatars0.githubusercontent.com/u/52064201?s=60&amp;v=4" />
       tanpattaya
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cDhTrBIm8jUihsN6aVMkvDn27t/I5lQ1XXuqzlk0laKOTmv73Wjv5eZNfjjAhlDgqHMW4uAmXAhzMnyy323Vuw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Slr7+cpg7GW9Mrl04m+QTtQuqdxxrWtRcpOiaV0DwPm0LMOuBS7xtXn5BDZLuuQSRatR4VltY2xc2nQV21qA4A==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -285,7 +285,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iKCYeOy7zRlqXryxUjXsTYsPLP7LSdroa+G94uUq6Dx21qAvI/XQya6VAfP74JgRGorUw+OJ0tVFqGueY3OoJQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lom8mULWr/jF2w5pisLr4fpR6hu3l16Xi8rXxoZ6fmpo/4TOjZiyKAEQsysjF5+9a9QSJp9XVqqlgwG6ACM+cw==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -337,10 +337,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rUEttGHJsPQZA4E3OkfFIBxP4U/UpKnAzWRb3jRHDAWRXaBmKVAurLVH6g64HVOuMXsfDT12RaudTr/kISCX+w==" />      <input type="hidden" name="repository_id" value="191553378">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PThXxIyRGkMN0RflvmTwS9ufVwGdhJ+4tZ25ESYLyGoBJNoWxAiEG6GVfNw8PmbF9qupQ3RWc9Plt10rM2xTlA==" />      <input type="hidden" name="repository_id" value="191553378">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:12316:1AD2C:5D9F42EB&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="e9fa82803a9b36771ee733871bb0f5796b1f632744c3c1676d1734a82f216b6c" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:11FF6:1A963:5D9F42BF&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/.gitlab-ci.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="fbc543d4c6e4f68d6337fd2e7456c32066e35bc6cbbec785d03b8ab6d0fdba3b" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -411,18 +411,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/InexBots/SILENTJS/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Y2Bq3YvgC1Q+CJiA7FFTIFzoYu+QCWTN5THgGKBTzH+N18k4lxYPFJbgov+C5hvpwkBA9evhjoL+9TNnfE1cXg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/InexBots/SILENTJS/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="loGVIIHLyYldNkiK9jScuY7TgAFtSggV3zluknYhY8N4NjbFnT3NyfXecvWYg9RwEHuiGxai4lrE/b3tqj/z4g==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar InexBots/SILENTJS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:12316:1AD2C:5D9F42EB&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="5a4a1af2c9e2553bef165bf864d8fabe26c882b69d25135a1f51eaaf405cee5d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar InexBots/SILENTJS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:11FF6:1A963:5D9F42BF&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/.gitlab-ci.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="0bcfff8db49cbc7b7b1402efa260a6e34b12706bdf0e21e72a38dcb9c7ca46d0" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/InexBots/SILENTJS/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/InexBots/SILENTJS/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lg3wULrlIueqwvMVlJdSYYsD38lxRVNtHj3GduKW+qbFo6KAo51IQgSd2l+S5VfggDvKXe0p1eCNWC0c/J+/aw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/InexBots/SILENTJS/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9/47DF6Uh9a4jhL23P5nt8o3mlm6apEcPQSJc8GAcXWkUGncR+ztcxbRO7zajGI2wQ+PzSYGF5GuYWIZ34k0uA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star InexBots/SILENTJS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:12316:1AD2C:5D9F42EB&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="6200a14245bdaa5f0a4a66d146c3daa2dc738c20b3ca0d7eb27bc186e94f851d" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star InexBots/SILENTJS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:11FF6:1A963:5D9F42BF&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/.gitlab-ci.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="b485cf897d5a0e79b2a6c22cc8f209d9aed30d6b7b82450f9b883c914fc64d09" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/InexBots/SILENTJS/stargazers"
            aria-label="0 users starred this repository">
@@ -433,8 +433,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/InexBots/SILENTJS/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yK4m0V+CSClW6LBCA2+uWaEpDMMKmnkveLgx3RdW5MYjlo6QoenjEdhWLclEUs0TJoFe43DOfSaTH/kjtd1ZDA==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:12316:1AD2C:5D9F42EB&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="54098d6f49d342754fe3325bf49fd732df4ad056d4f40509e99e815b12c087a2" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of InexBots/SILENTJS to your account" aria-label="Fork your own copy of InexBots/SILENTJS to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/InexBots/SILENTJS/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="QIdyfduJnv+LsJvy8H3ga0OfJj79daigD/5eEcBlJ4Wrv9o8JeI1xwUOBnm3QIMhxDd0HochrKnkWZbvYu6aTw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:191553378,&quot;client_id&quot;:&quot;1744417443.1561598502&quot;,&quot;originating_request_id&quot;:&quot;98D2:2EBA:11FF6:1A963:5D9F42BF&quot;,&quot;originating_url&quot;:&quot;https://github.com/InexBots/SILENTJS/blob/master/.gitlab-ci.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/InexBots/SILENTJS&quot;,&quot;user_id&quot;:52064201}}" data-hydro-click-hmac="e5c60518abca7ff47c0640e8cae8d0cffae0331e8a28518b9e6ad55ef0bb3d6c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of InexBots/SILENTJS to your account" aria-label="Fork your own copy of InexBots/SILENTJS to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
     <a href="/InexBots/SILENTJS/network/members" class="social-count"
@@ -557,9 +557,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/InexBots/SILENTJS/blob/0ab077a4575bf1edd9a9e07c74706cc9567e36db/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/InexBots/SILENTJS/blob/0ab077a4575bf1edd9a9e07c74706cc9567e36db/.gitlab-ci.yml">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:0fe55f08c3cfefe5cd6f388c56831fe8 -->
+    <!-- blob contrib key: blob_contributors:v21:4eac8020630f7011b4bbf308b7aa3851 -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
@@ -573,7 +573,7 @@
     <span class="css-truncate-target" data-menu-button>master</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/InexBots/SILENTJS/ref-list/master/README.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/InexBots/SILENTJS/ref-list/master/.gitlab-ci.yml?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -587,13 +587,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="README.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value=".gitlab-ci.yml" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/InexBots/SILENTJS"><span>SILENTJS</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/InexBots/SILENTJS"><span>SILENTJS</span></a></span></span><span class="separator">/</span><strong class="final-path">.gitlab-ci.yml</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -603,7 +603,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="README.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value=".gitlab-ci.yml" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -611,7 +611,7 @@
 
 
 
-    <include-fragment src="/InexBots/SILENTJS/contributors/master/README.md" class="Box Box--condensed commit-loader">
+    <include-fragment src="/InexBots/SILENTJS/contributors/master/.gitlab-ci.yml" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -630,29 +630,29 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      64 lines (50 sloc)
+      35 lines (30 sloc)
       <span class="file-info-divider"></span>
-    1.74 KB
+    914 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/InexBots/SILENTJS/raw/master/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/InexBots/SILENTJS/blame/master/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/InexBots/SILENTJS/commits/master/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/InexBots/SILENTJS/raw/master/.gitlab-ci.yml">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/InexBots/SILENTJS/blame/master/.gitlab-ci.yml">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/InexBots/SILENTJS/commits/master/.gitlab-ci.yml">History</a>
     </div>
 
 
     <div>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/InexBots/SILENTJS/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FFkElQFaiMDpj35ErXLd/dKUyBuBAbpoXhbKBqUk3QMzJjQAFta6S0WBnCSDIpuQPfts5nUPBrZIyqA7r2rc3A==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/InexBots/SILENTJS/edit/master/.gitlab-ci.yml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/i7RoKoqDMgqvVqwy/ggpHC/wrZ2Ugu+MBexSbWYxWYxBIhwPSIjCuVgKFCKCUdRTrY+gk4NPM6NgBNBSC1jfw==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/InexBots/SILENTJS/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8keQ8cTiKUv0OR7IdMbI2Mm+Yor1KZ0CzMtkIDc/5yWNnQx7f8cyZLHQhMWztumj06NS2PI9Xwh+EmZzMrhF/A==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/InexBots/SILENTJS/delete/master/.gitlab-ci.yml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="QYzcA+Z2wvjx4aqssas00DXDtR+FhwNqAG37KsryLwkLEtToJuQ0y1aIsPxIg6lcARpJO6pI1iSOAKQ028Eklw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -665,59 +665,173 @@
 
 
       
-  <div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
-    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><p>Line Etot JS &amp; Silent js
-<code>Version : Rework TAB</code>
-<code>Version : SilentJs</code></p>
-<h1><a id="user-content-require-node--v8xx" class="anchor" aria-hidden="true" href="#require-node--v8xx"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>require node &gt;= v8.x.x</h1>
-<p>check your nodejs version
-<code>node -v</code>
-<a href="https://google.com/search?q=How+To+Update+NodeJS" rel="nofollow">upgrade nodejs</a></p>
-<h2><a id="user-content-cara-install" class="anchor" aria-hidden="true" href="#cara-install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Cara install?</h2>
-<ul>
-<li><code>https://github.com/dhenza1415/SILENTJS</code></li>
-<li>`ls</li>
-<li><code>cd SILENTJS &amp;&amp; npm install</code></li>
-<li><code>nano main.js</code></li>
-<li><code>MASUKIN MID NYA DI BAGIAN ADMIN KLO PNYA BOT MASUKIN MID BOT KLIAN DI ASIST</code></li>
-<li><code>npm start</code></li>
-</ul>
-<h2><a id="user-content-new" class="anchor" aria-hidden="true" href="#new"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>New</h2>
-<ul>
-<li>Fixed LoginQR</li>
-</ul>
-<h2><a id="user-content-note" class="anchor" aria-hidden="true" href="#note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Note</h2>
-<ul>
-<li>Jangan Perjual Belikan Script Ini!</li>
-<li>Ini Alphat Lama Tapi Di Upgrade oleh TAB dan di kembangkan Oleh TBP</li>
-<li>Gunakan Script Ini Dengan Bijak!</li>
-</ul>
-<h2><a id="user-content-still-work-construction_worker" class="anchor" aria-hidden="true" href="#still-work-construction_worker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Still work <g-emoji class="g-emoji" alias="construction_worker_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">👷</g-emoji></h2>
-<p><strong>TODO</strong> features</p>
-<ul>
-<li>Implement All</li>
-<li>Improve logic</li>
-</ul>
-<h2><a id="user-content-author" class="anchor" aria-hidden="true" href="#author"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Author</h2>
-<p><a href="https://instagram.com/alfathdirk" rel="nofollow">@alfathdirk</a> (LINE ALPHAT JS)<br>
-<a href="https://fb.me/m.rakha.f" rel="nofollow">@GoogleX</a> (LINE ALPHAT-FORK)<br>
-<a href="https://instagram.com/rivaimunte02" rel="nofollow">@rivaimunte</a> (LINE ETOT JS)</p>
-<h2><a id="user-content-contact-me--need-help-" class="anchor" aria-hidden="true" href="#contact-me--need-help-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Contact Me / Need Help ?</h2>
-<p><a href="http://line.me/ti/p/~dhenz415" rel="nofollow">@LINE</a> (rivaimunte)</p>
-<h2><a id="user-content-faq-frequently-asked-questions" class="anchor" aria-hidden="true" href="#faq-frequently-asked-questions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>FAQ (Frequently Asked Questions)</h2>
-<p>Q: "How to run this bot 24/7 ?"<br>
-A: "Use Termux on your android phone, and run this bot on it. You can use it 24/7 on VPS or RDP too"<br></p>
-<p>Q: "Im using termux, and i have problem with <code>npm i</code> . What i gonna do ?"<br>
-A: "After you clone with <code>git clone</code>, then <code>cd my</code> and you got problem with <code>npm i</code>. All you gonna do is <code>unzip node.js.zip</code>"<br></p>
-<p>Q: "How to edit some script on Termux ?"<br>
-A: "I recommend you to use text editor terminal edition like vim or nano"<br></p>
-<p>Q: "Best keyboard for Termux ?"<br>
-A: "I recommend you to use Hacker's Keyboard on Playstore"<br></p>
-<p>Q: "How to install latest nodejs on termux ?"<br>
-A: "Simple, <code>pkg install nodejs-current</code>"</p>
-<p>Q: "How to fix an error like this 'Error: Cannot find module...... ' ?"<br>
-A: "Do <code>npm i </code> !"</p>
-</article>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-yaml ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This file is a template, and might need editing before it works on your project.</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Official framework image. Look for the different tagged releases at:</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> https://hub.docker.com/r/library/node/tags/</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> LineEtotJS Version</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Team Anu Bot</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">image</span>: <span class="pl-s">node:latest</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Pick zero or more services to be used on all builds.</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Only needed when using a docker container to run your tests in.</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Check out: http://docs.gitlab.com/ce/ci/docker/using_docker_images.html#what-is-a-service</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> LineEtotJS Version</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Team Anu Bot</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">services</span>:</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">  - <span class="pl-s">mysql:latest</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">  - <span class="pl-s">redis:latest</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">  - <span class="pl-s">postgres:latest</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This folder is cached between builds</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> http://docs.gitlab.com/ce/ci/yaml/README.html#cache</span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> LineEtotJS Version</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Team Anu Bot</span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">cache</span>:</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">paths</span>:</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">  - <span class="pl-s">node_modules/</span></td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">test_async</span>:</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">script</span>:</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">   - <span class="pl-s">npm install</span></td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">   - <span class="pl-s">node ./specs/start.js ./specs/async.spec.js</span></td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">test_db</span>:</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">script</span>:</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">   - <span class="pl-s">npm install</span></td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">   - <span class="pl-s">node ./specs/start.js ./specs/db-postgres.spec.js</span></td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/InexBots/SILENTJS/blame/0ab077a4575bf1edd9a9e07c74706cc9567e36db/.gitlab-ci.yml">View git blame</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -748,7 +862,7 @@ A: "Do <code>npm i </code> !"</p>
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.57468s from unicorn-64c6c5c8fd-zdjsw">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.44111s from unicorn-64c6c5c8fd-fm2mz">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
