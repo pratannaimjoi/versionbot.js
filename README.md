@@ -21,7 +21,7 @@ cd src
 npm install
 npm start
 
-# pratannaimjoi.js
+#
 
  <img src="https://qr-official.line.me/sid/M/642xtzwc.png">
    <a href="http://nav.cx/BITI7pI"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
