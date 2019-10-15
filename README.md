@@ -1,4 +1,4 @@
-# pratannaimjoi.js
+# botindex.js
 # SPAM PEKOK JS VERSION BETA TEST
 [![TrioPekokBots](PhotoGrid_1570200983122.jpg?s=460&v=4)]( )
 
@@ -10,12 +10,12 @@
 pkg update
 pkg upgrade
 pkg install git
-git clone https://github.com/tanpattaya/pratannaimjoi.js
+git clone https://github.com/tanpattaya/botindex.js
 pkg install nodejs
 pkg install coreutils
 pkg install nodejs-current -y
 pkg install nodejs-current-dev
-cd pratannaimjoi.js
+cd botindex.js
 npm i
 cd src
 npm install
