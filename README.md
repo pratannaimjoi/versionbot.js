@@ -1,6 +1,6 @@
 # botindex.js
 # JS VERSION BETA TEST
-[![TrioPekokBots]( ?s=460&v=4)]( )
+[![TrioPekokBots](square-default.png?s=460&v=4)]( )
 
 # CHAT ME
 <a href="https://line.me/R/ti/p/%40642xtzwc"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
