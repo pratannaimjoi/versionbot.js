@@ -15,7 +15,7 @@ pkg install nodejs
 pkg install coreutils
 pkg install nodejs-current -y
 pkg install nodejs-current-dev
-cd triopekokbots026
+cd pratannaimjoi.js
 npm i
 cd src
 npm install
