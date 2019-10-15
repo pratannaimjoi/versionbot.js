@@ -1,4 +1,4 @@
-# botindex.js
+# pratannaimjoi.js
 # SPAM PEKOK JS VERSION BETA TEST
 [![TrioPekokBots](PhotoGrid_1570200983122.jpg?s=460&v=4)]( )
 
