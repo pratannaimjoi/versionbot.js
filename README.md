@@ -10,12 +10,12 @@
 pkg update
 pkg upgrade
 pkg install git
-git clone https://github.com/tanpattaya/botindex.js
+git clone https://github.com/tanpattaya/pratannaimjoi.js
 pkg install nodejs
 pkg install coreutils
 pkg install nodejs-current -y
 pkg install nodejs-current-dev
-cd botindex.js
+cd pratannaimjoi.js
 npm i
 cd src
 npm install
