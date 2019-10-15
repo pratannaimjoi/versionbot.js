@@ -28,8 +28,8 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>SILENTJS/connect.js at master · InexBots/SILENTJS</title>
-    <meta name="description" content="Contribute to InexBots/SILENTJS development by creating an account on GitHub.">
+  <title>tanpattaya/connect.js at master · botindex.js/SILENTJS</title>
+    <meta name="description" content="Contribute to botindex.js/SILENTJS development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
