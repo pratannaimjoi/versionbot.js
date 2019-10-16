@@ -1,0 +1,558 @@
+{
+  "_class" : "hudson.model.FreeStyleBuild",
+  "actions" : [
+    {
+      "_class" : "hudson.model.CauseAction",
+      "causes" : [
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        },
+        {
+          "_class" : "hudson.triggers.SCMTrigger$SCMTriggerCause",
+          "shortDescription" : "Started by an SCM change"
+        }
+      ]
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      "_class" : "hudson.plugins.git.util.BuildData",
+      "buildsByBranchName" : {
+        "refs/remotes/origin/master" : {
+          "_class" : "hudson.plugins.git.util.Build",
+          "buildNumber" : 44,
+          "buildResult" : null,
+          "marked" : {
+            "SHA1" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+            "branch" : [
+              {
+                "SHA1" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+                "name" : "refs/remotes/origin/master"
+              }
+            ]
+          },
+          "revision" : {
+            "SHA1" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+            "branch" : [
+              {
+                "SHA1" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+                "name" : "refs/remotes/origin/master"
+              }
+            ]
+          }
+        }
+      },
+      "lastBuiltRevision" : {
+        "SHA1" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+        "branch" : [
+          {
+            "SHA1" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+            "name" : "refs/remotes/origin/master"
+          }
+        ]
+      },
+      "remoteUrls" : [
+        "https://review.gerrithub.io/GerritForge/gatling-git"
+      ],
+      "scmName" : ""
+    },
+    {
+      "_class" : "hudson.plugins.git.GitTagAction"
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      "_class" : "com.nirima.jenkins.plugins.docker.action.DockerBuildAction"
+    },
+    {
+      
+    },
+    {
+      
+    }
+  ],
+  "artifacts" : [
+    
+  ],
+  "building" : false,
+  "description" : null,
+  "displayName" : "#44",
+  "duration" : 199362,
+  "estimatedDuration" : 186424,
+  "executor" : null,
+  "fullDisplayName" : "gatling-git-sbt-master #44",
+  "id" : "44",
+  "keepLog" : false,
+  "number" : 44,
+  "queueId" : 10758,
+  "result" : "FAILURE",
+  "timestamp" : 1570037627321,
+  "url" : "https://gerrit-ci.gerritforge.com/job/gatling-git-sbt-master/44/",
+  "builtOn" : "gcloud66-1abea70f3768",
+  "changeSet" : {
+    "_class" : "hudson.plugins.git.GitChangeSetList",
+    "items" : [
+      {
+        "_class" : "hudson.plugins.git.GitChangeSet",
+        "affectedPaths" : [
+          "CONFIG.md"
+        ],
+        "commitId" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+        "timestamp" : 1569953309000,
+        "author" : {
+          "absoluteUrl" : "https://gerrit-ci.gerritforge.com/user/ponch78",
+          "fullName" : "ponch78"
+        },
+        "authorEmail" : "ponch78@gmail.com",
+        "comment" : "Wrong \"commands.push\" documentation\nChange-Id: I9f19679160acff62137836d4566384471bc663e0\n",
+        "date" : "2019-10-01 18:08:29 +0000",
+        "id" : "f708b3f6169a6a517e7755fe77af5baf47422b4a",
+        "msg" : "Wrong \"commands.push\" documentation",
+        "paths" : [
+          {
+            "editType" : "edit",
+            "file" : "CONFIG.md"
+          }
+        ]
+      }
+    ],
+    "kind" : "git"
+  }
+}
+{
+  "description": "Analytics",
+  "use_contributor_agreements": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_content_merge": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_signed_off_by": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "create_new_change_for_all_not_in_target": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "require_change_id": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "ปฏิเสธ _implicit_merges": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "private_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "work_in_progress_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "enable_reviewer_by_email": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "match_author_to_committer_date": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "ปฏิเสธ _empty_commit": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "max_object_size_limit": {},
+  "submit_type": "MERGE_IF_NECESSARY",
+  "default_submit_type": {
+    "value": "MERGE_IF_NECESSARY",
+    "configure_value": "MERGE_IF_NECESSARY",
+    "inherited_value": "MERGE_IF_NECESSARY"
+  }
+  "การกระทำ": {},
+  "ความคิดเห็น": {
+    "ph": {
+      "match": "([Bb] ug | [Ii] ssue) \\ s * #? (\\ d +)",
+      "ลิงก์": "https://bugs.chromium.org/p/gerrit/issues/detail?id\u003d$2"
+    }
+    "changeid": {
+      "match": "(ฉัน [0-9a-f] {8,40})",
+      "ลิงก์": "# / q / $ 1"
+    }
+  }
+  "extension_panel_names": {}
+}
+{
+  "description": " ",
+  "use_contributor_agreements": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_content_merge": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_signed_off_by": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "create_new_change_for_all_not_in_target": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "require_change_id": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "ปฏิเสธ _implicit_merges": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "private_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "work_in_progress_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "enable_reviewer_by_email": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "match_author_to_committer_date": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "reject_empty_commit": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "max_object_size_limit": {},
+  "submit_type": "MERGE_IF_NECESSARY",
+  "default_submit_type": {
+    "value": "MERGE_IF_NECESSARY",
+    "configure_value": "INHERIT",
+    "inherited_value": "MERGE_IF_NECESSARY"
+  }
+  "การกระทำ": {},
+  "ความคิดเห็น": {
+    "ph": {
+      "match": "([Bb] ug | [Ii] ssue) \\ s * #? (\\ d +)",
+      "ลิงก์": "https://bugs.chromium.org/p/gerrit/issues/detail?id\u003d$2"
+    }
+    "changeid": {
+      "match": "(ฉัน [0-9a-f] {8,40})",
+      "ลิงก์": "# / q / $ 1"
+    }
+  }
+  "extension_panel_names": {}
+}
+{
+  "description": " ",
+  "use_contributor_agreements": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_content_merge": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_signed_off_by": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "create_new_change_for_all_not_in_target": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "require_change_id": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "ปฏิเสธ _implicit_merges": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "private_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "work_in_progress_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "enable_reviewer_by_email": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "match_author_to_committer_date": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "reject_empty_commit": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "max_object_size_limit": {},
+  "submit_type": "MERGE_IF_NECESSARY",
+  "default_submit_type": {
+    "value": "MERGE_IF_NECESSARY",
+    "configure_value": "MERGE_IF_NECESSARY",
+    "inherited_value": "MERGE_IF_NECESSARY"
+  }
+  "การกระทำ": {},
+  "ความคิดเห็น": {
+    "ph": {
+      "match": "([Bb] ug | [Ii] ssue) \\ s * #? (\\ d +)",
+      "ลิงก์": "https://bugs.chromium.org/p/gerrit/issues/detail?id\u003d$2"
+    }
+    "changeid": {
+      "match": "(ฉัน [0-9a-f] {8,40})",
+      "ลิงก์": "# / q / $ 1"
+    }
+  }
+  "extension_panel_names": {}
+}
+ {
+  "description": " "
+  "use_contributor_agreements": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_content_merge": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_signed_off_by": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "create_new_change_for_all_not_in_target": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "require_change_id": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "ปฏิเสธ _implicit_merges": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "private_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "work_in_progress_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "enable_reviewer_by_email": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "match_author_to_committer_date": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "reject_empty_commit": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "max_object_size_limit": {},
+  "submit_type": "MERGE_IF_NECESSARY",
+  "default_submit_type": {
+    "value": "MERGE_IF_NECESSARY",
+    "configure_value": "INHERIT",
+    "inherited_value": "MERGE_IF_NECESSARY"
+  }
+  "การกระทำ": {},
+  "ความคิดเห็น": {
+    "ph": {
+      "match": "([Bb] ug | [Ii] ssue) \\ s * #? (\\ d +)",
+      "ลิงก์": "https://bugs.chromium.org/p/gerrit/issues/detail?id\u003d$2"
+    }
+    "changeid": {
+      "match": "(ฉัน [0-9a-f] {8,40})",
+      "ลิงก์": "# / q / $ 1"
+    }
+  }
+  "extension_panel_names": {}
+}
+{
+  "description": " ",
+  "use_contributor_agreements": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_content_merge": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_signed_off_by": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "create_new_change_for_all_not_in_target": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "require_change_id": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "ปฏิเสธ _implicit_merges": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "private_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "work_in_progress_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "enable_reviewer_by_email": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "match_author_to_committer_date": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "reject_empty_commit": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "max_object_size_limit": {},
+  "submit_type": "MERGE_IF_NECESSARY",
+  "default_submit_type": {
+    "value": "MERGE_IF_NECESSARY",
+    "configure_value": "MERGE_IF_NECESSARY",
+    "inherited_value": "MERGE_IF_NECESSARY"
+  }
+  "การกระทำ": {},
+  "ความคิดเห็น": {
+    "ph": {
+      "match": "([Bb] ug | [Ii] ssue) \\ s * #? (\\ d +)",
+      "ลิงก์": "https://bugs.chromium.org/p/gerrit/issues/detail?id\u003d$2"
+    }
+    "changeid": {
+      "match": "(ฉัน [0-9a-f] {8,40})",
+      "ลิงก์": "# / q / $ 1"
+    }
+  }
+  "extension_panel_names": {}
+}
+automerger.json
+{
+  "use_contributor_agreements": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_content_merge": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "use_signed_off_by": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "create_new_change_for_all_not_in_target": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "require_change_id": {
+    "configure_value": "INHERIT",
+    "inherited_value": จริง
+  }
+  "ปฏิเสธ _implicit_merges": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "private_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "work_in_progress_by_default": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "enable_reviewer_by_email": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "match_author_to_committer_date": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "reject_empty_commit": {
+    "configure_value": "INHERIT",
+    "inherited_value": false
+  }
+  "max_object_size_limit": {},
+  "submit_type": "MERGE_IF_NECESSARY",
+  "default_submit_type": {
+    "value": "MERGE_IF_NECESSARY",
+    "configure_value": "MERGE_IF_NECESSARY",
+    "inherited_value": "MERGE_IF_NECESSARY"
+  }
+  "การกระทำ": {},
+  "ความคิดเห็น": {
+    "ph": {
+      "match": "([Bb] ug | [Ii] ssue) \\ s * #? (\\ d +)",
+      "ลิงก์": "https://bugs.chromium.org/p/gerrit/issues/detail?id\u003d$2"
+    }
+    "changeid": {
+      "match": "(ฉัน [0-9a-f] {8,40})",
+      "ลิงก์": "# / q / $ 1"
+    }
+  }
+  "extension_panel_names": {}
+}
