@@ -28,14 +28,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>tanpattaya/package.json at master · botindex.js/tanpattaya</title>
-    <meta name="description" content="Contribute to botindex.js/tanpattaya development by creating an account on GitHub.">
+  <title>tanpattaya/package.json at master · indexbots/tanpattaya</title>
+    <meta name="description" content="Contribute to indexbots/tanpattaya development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/43498952?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="InexBots/SILENTJS" /><meta name="twitter:description" content="Contribute to InexBots/SILENTJS development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/43498952?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="InexBots/SILENTJS" /><meta property="og:url" content="https://github.com/InexBots/SILENTJS" /><meta property="og:description" content="Contribute to InexBots/SILENTJS development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/43498952?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="indexbots/SILENTJS" /><meta name="twitter:description" content="Contribute to indexbots/SILENTJS development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/43498952?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="indexbots/SILENTJS" /><meta property="og:url" content="https://github.com/indexbots/SILENTJS" /><meta property="og:description" content="Contribute to indexbots/SILENTJS development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDQxNTI5MjUzOjJkZmJhMWEyNGJjMzdjODExOTc2YWU1MzA2ZDJmOWRlMmU5YjFjYTI1ZDQxZjAxOGMxOTY0MzdiZWIyMGU5Yzg=--2355c8ade7d91d0f01aa52b84798fdbf0e2eb801">
@@ -82,9 +82,9 @@
 
       <link href="https://github.com/InexBots/SILENTJS/commits/master.atom" rel="alternate" title="Recent Commits to SILENTJS:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/InexBots/SILENTJS git https://github.com/InexBots/SILENTJS.git">
+  <meta name="go-import" content="github.com/InexBots/SILENTJS git https://github.com/indexbots/SILENTJS.git">
 
-  <meta name="octolytics-dimension-user_id" content="43498952" /><meta name="octolytics-dimension-user_login" content="InexBots" /><meta name="octolytics-dimension-repository_id" content="191553378" /><meta name="octolytics-dimension-repository_nwo" content="InexBots/SILENTJS" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="145588832" /><meta name="octolytics-dimension-repository_parent_nwo" content="dhenza1415/SILENTJS" /><meta name="octolytics-dimension-repository_network_root_id" content="145588832" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dhenza1415/SILENTJS" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="43498952" /><meta name="octolytics-dimension-user_login" content="InexBots" /><meta name="octolytics-dimension-repository_id" content="191553378" /><meta name="octolytics-dimension-repository_nwo" content="indexbots/SILENTJS" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="145588832" /><meta name="octolytics-dimension-repository_parent_nwo" content="dhenza1415/SILENTJS" /><meta name="octolytics-dimension-repository_network_root_id" content="145588832" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dhenza1415/SILENTJS" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
     <link rel="canonical" href="https://github.com/InexBots/SILENTJS/blob/master/package.json" data-pjax-transient>
@@ -143,7 +143,7 @@
   role="search"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="191553378" data-scoped-search-url="/InexBots/SILENTJS/search" data-unscoped-search-url="/search" action="/InexBots/SILENTJS/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="191553378" data-scoped-search-url="/InexBots/SILENTJS/search" data-unscoped-search-url="/search" action="/indexbots/SILENTJS/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control input-sm header-search-wrapper p-0  js-chromeless-input-container">
             <a class="header-search-scope no-underline" href="/InexBots/SILENTJS/blob/master/package.json">This repository</a>
         <input type="text"
