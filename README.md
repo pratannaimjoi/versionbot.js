@@ -1,4 +1,4 @@
-# botindex.js
+#  indexbots
 [![TrioPekokBots](square-default.png?s=460&v=4)]( )
 
 # JS VERSION BETA TEST
@@ -12,12 +12,12 @@
 pkg update
 pkg upgrade
 pkg install git
-git clone https://github.com/tanpattaya/botindex.js
+git clone https://github.com/tanpattaya/indexbots
 pkg install nodejs
 pkg install coreutils
 pkg install nodejs-current -y
 pkg install nodejs-current-dev
-cd botindex.js
+cd indexbots
 npm i
 cd src
 npm install
