@@ -36,3 +36,9 @@ npm start
 
 <div class="line-it-button" data-lang="th" data-type="like" data-url="https://social-plugins.line.me/th/how_to_install#likebutton" data-share="true" style="display: none;"></div>
  <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+ <div class="line-it-button" data-lang="th" data-type="share-c" data-ver="3" data-url="https://api.github.com/orgs/:org/members" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+   <div class="line-it-button" data-lang="th" data-type="friend" data-lineid="@ 642xtzwc" data-count="true" data-home="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+   <div class="line-it-button" data-lang="th" data-type="like" data-url="https://api.github.com/orgs/:org/members" data-share="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
