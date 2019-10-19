@@ -40,33 +40,32 @@ versionbot.js  pr official
 ## For List
 ```
 ╼━━━━━━─━━━━━━╾
-⚜ TRIO INEX BOTS ⚜
-⚜ Open Order ⚜
+📌 TRIO INEX BOTS 📌
+📌 Open Order 📌
 ╼━━━━━━─━━━━━━╾
-✍ Selfbot biasa
-✍ Selfbot biasa + antijs
-✍ Selfbot template
-✍ Selfbot template + antijs
-✍ Selfbot protect
-✍ Selfbot protect + antijs
-✍ Bot protect cl
-✍ Bot protect cl + antijs
+💥 Selfbot biasa
+💥 Selfbot biasa + antijs
+💥 Selfbot template
+💥 Selfbot template + antijs
+💥 Selfbot protect
+💥 Selfbot protect + antijs
+💥 Bot protect cl
+💥 Bot protect cl + antijs
 ╼━━━━━━─━━━━━━╾
-⚜ Open Jasa
+📌 Open Jasa
 ╼━━━━━━─━━━━━━╾
-✍ Login bypass
-✍ Spam invite
-✍ Spam mc
-✍ Open Vps 
-✍ Token primary 
+💥 Login bypass
+💥 Spam invite
+💥 Spam mc
+💥 Open Vps 
+💥 Token primary 
 ╼━━━━━━─━━━━━━╾
 line.me/ti/p/~tanpattaya1983.titipan
 line.me/ti/p/~ptatan1983
 ╼━━━━━━─━━━━━━╾
 
 ```
-*SPAM PEKOK JS*
-*Remake by: TRIO PEKOK BOTS*
+*Remake by: TRIO INEX BOTS*
 
 - UPDATE IN
 9 MARET 2019
