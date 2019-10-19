@@ -35,3 +35,38 @@ versionbot.js  pr official
   <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
   <div class="line-it-button" data-lang="th" data-type="like" data-url="http://nav.cx/BITI7pI" data-share="true" data-lineid="ptatan1983" style="display: none;"></div>
  <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+
+```
+## For List
+```
+╼━━━━━━─━━━━━━╾
+⚜ TRIO INEX BOTS ⚜
+⚜ Open Order ⚜
+╼━━━━━━─━━━━━━╾
+✍ Selfbot biasa
+✍ Selfbot biasa + antijs
+✍ Selfbot template
+✍ Selfbot template + antijs
+✍ Selfbot protect
+✍ Selfbot protect + antijs
+✍ Bot protect cl
+✍ Bot protect cl + antijs
+╼━━━━━━─━━━━━━╾
+⚜ Open Jasa
+╼━━━━━━─━━━━━━╾
+✍ Login bypass
+✍ Spam invite
+✍ Spam mc
+✍ Open Vps 
+✍ Token primary 
+╼━━━━━━─━━━━━━╾
+line.me/ti/p/~tanpattaya1983.titipan
+line.me/ti/p/~ptatan1983
+╼━━━━━━─━━━━━━╾
+
+```
+*SPAM PEKOK JS*
+*Remake by: TRIO PEKOK BOTS*
+
+- UPDATE IN
+9 MARET 2019
