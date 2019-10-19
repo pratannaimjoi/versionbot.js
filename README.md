@@ -1,7 +1,7 @@
 #  versionbot.js
 [![TrioPekokBots](square-default.png?s=460&v=4)]( )
 
-# JS VERSION BETA TEST
+# NEW VERSION BETA JS
 
 
 # CHAT ME
