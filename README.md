@@ -5,7 +5,7 @@
 
 
 # CHAT ME
-[![TrioPekokBots](PhotoGrid_1571457725363.jpg?s=460&v=4)]( )
+ 
 <a href="https://line.me/R/ti/p/%40642xtzwc"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 ## Running in Termux
