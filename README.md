@@ -69,3 +69,5 @@ line.me/ti/p/~ptatan1983
 
 - UPDATE IN
 9 MARET 2019
+@Pratan naimjoi/
+(www.linkedin.com/in/pratan-naimjoi)
