@@ -37,11 +37,11 @@ console.info("\n\
 ★─ https://line.me/ti/p/~cuma.akun.titipan ─★\n");
 console.info("\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───⚜ Type : LINE PEKOK JS\n\
-───⚜ Version: VERSION KW SERIES\n\
-───⚜ Thanks to @Alfathdirk @TCR_TEAM\n\
+───💥 Type : LINE INDEXBOTS JS\n\
+───💥 Version: VERSION KW SERIES\n\
+───💥 Thanks to @Alfathdirk @TCR_TEAM\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-\nNB : Bot Ini Dibuat Oleh @Alfathdirk @TCR_TEAM Dan Di Remake Oleh @TRIO_PEKOK_BOTS \n\
+\nNB : Bot Ini Dibuat Oleh @Alfathdirk @TCR_TEAM Dan Di Remake Oleh @TRIO_INDEX_BOTS \n\
 ***Copyright belongs to the author***");
 
 /*
@@ -49,7 +49,7 @@ console.info("\n\
 | 
 | Change it to your authToken / your email & password
 */
-//TRIO_PEKOK_PROTECTION
+//TRIO_INDEXBOTS_PROTECTION
 
 const auth = {
     authToken: '',
