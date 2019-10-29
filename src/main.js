@@ -13,7 +13,7 @@ const banList = [];//Banned list
 var groupList = new Array();//Group list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
 const imgArr = ['png','jpg','jpeg','gif','bmp','webp'];//DO NOT CHANGE THIS
-var komenTL = "AutoLike by nTRIO INDEX BOTS\n≽ VERSION JS\nline://ti/p/~cuma.akun.titipan"; //Comment for timeline
+var komenTL = "AutoLike by nTRIO PEKOK BOTS\n≽ VERSION JS\nline://ti/p/~cuma.akun.titipan"; //Comment for timeline
 var bcText = "Masukan teks untuk broadcast";
 var limitposts = '10'; //Output timeline post
 
