@@ -1,7 +1,7 @@
 {
-  "name": "alphat-new-generation",
-  "version": "0.6.9",
-  "description": "LINE",
+  "name": "LINE-PEKOK-JS",
+  "version": "6.9.0",
+  "description": "BOT LINE",
   "main": "./src/main.js",
   "scripts": {
     "start": "npm run startx",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/m.rakha.f/alphat-new-generation.git"
+    "url": "git+https://github.com/bukankaleng/testi-js.git"
   },
-  "author": "GoogleX <haxor-133@protonmail.com>",
+  "author": "©Basyir <tebakakusiapa026@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
@@ -29,10 +29,10 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://gitlab.com/m.rakha.f/alphat-new-generation/issues"
+    "url": "https://github.com/bukankaleng/testi-js/issues"
   },
-  "homepage": "https://gitlab.com/m.rakha.f/alphat-new-generation#README",
+  "homepage": "https://github.com/bukankaleng",
   "keywords": [
-    "line"
+    "tpb"
   ]
 }
