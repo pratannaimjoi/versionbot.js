@@ -1,11 +1,11 @@
-<img src="https://qr-official.line.me/sid/M/642xtzwc.png">
+  <img src="https://qr-official.line.me/sid/M/642xtzwc.png">
     <img src="https://qr-official.line.me/sid/M/642xtzwc.png">
   <div class="line-it-button" data-lang="th" data-type="share-c" data-ver="3" data-url="http://nav.cx/BITI7pI" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
      <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
    <div class="line-it-button" data-lang="th" data-type="friend" data-lineid="@ 642xtzwc" data-count="true" data-home="true" style="display: none;"></div>
       <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
-    <div class="line-it-button" data-lang="th" data-type="like" data-url="http://nav.cx/BITI7pI" data-share="true" data-lineid="ptatan1983" style="display: none;"></div>
-      <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+   <div class="line-it-button" data-lang="th" data-type="like" data-url="http://nav.cx/BITI7pI" data-share="true" data-lineid="ptatan1983" style="display: none;"></div>
+     <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 {
   "description": "ปลั๊กอินเพื่อให้ผู้ดูแลระบบสามารถคงระดับการบันทึกที่กำหนดค่าไว้ตลอดการรีสตาร์ท",
   "use_contributor_agreements": {
