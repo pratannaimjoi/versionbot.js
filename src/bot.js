@@ -37,7 +37,7 @@ console.info("\n\
 ★─ https://line.me/ti/p/~cuma.akun.titipan ─★\n");
 console.info("\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───💥 Type : LINE INDEXBOTS JS\n\
+───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ BOTS JS\n\
 ───💥 Version: VERSION KW SERIES\n\
 ───💥 Thanks to @Alfathdirk @TCR_TEAM\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
