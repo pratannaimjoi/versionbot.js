@@ -37,9 +37,9 @@ console.info("\n\
 ★─ https://line.me/R/ti/p/%40642xtzwc.akun.titipan ─★\n");
 console.info("\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───⚜ Type : LINE INDEXBOTS JS\n\
-───⚜ Version: VERSION KW SERIES\n\
-───⚜ Thanks to @Alfathdirk @TCR_TEAM\n\
+───💥 Type : LINE INDEXBOTS JS\n\
+───💥 Version: VERSION KW SERIES\n\
+───💥 Thanks to @Alfathdirk @TCR_TEAM\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
 \nNB : Bot Ini Dibuat Oleh @Alfathdirk @TCR_TEAM Dan Di Remake Oleh @TRIO_INDEX_BOTS \n\
 ***Copyright belongs to the author***");
