@@ -8,12 +8,12 @@ const rp = require('request-promise');
 const config = require('./config');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
-const myBot = ['uaf602c7210b2abc5227d7e66a102f0d9','uaed33f60ed0b0d5ee5b33cc5c979d770'];
+const myBot = ['udb43d62b8ab3d9390881ded66f8a037a','ud04f53d7094ebc3a3a2183795bc4b9a5'];
 const banList = [];//Banned list
 var groupList = new Array();//Group list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
 const imgArr = ['png','jpg','jpeg','gif','bmp','webp'];//DO NOT CHANGE THIS
-var komenTL = "AutoLike by nTRIO PEKOK BOTS\n≽ VERSION JS\nline://ti/p/~cuma.akun.titipan"; //Comment for timeline
+var komenTL = "AutoLike by nTRIO INDEX BOTS\n≽ VERSION JS\nline.me/R/ti/p/~ptatan1983.akun.titipan"; //Comment for timeline
 var bcText = "Masukan teks untuk broadcast";
 var limitposts = '10'; //Output timeline post
 
