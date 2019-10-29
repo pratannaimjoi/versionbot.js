@@ -33,15 +33,15 @@ console.info("\n\
 ───────██───██────██   ██────\n\
 ───────██───██────█████────\n\
 ★═══════════★★══════════★\n\
-★─ https://line.me/ti/p/~please.jan.goblog ─★\n\
-★─ https://line.me/ti/p/~cuma.akun.titipan ─★\n");
+★─ https://line.me/R/ti/p/~ptatan1983.jan.goblog ─★\n\
+★─ https://line.me/R/ti/p/%40642xtzwc.akun.titipan ─★\n");
 console.info("\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───⚜ Type : LINE PEKOK JS\n\
+───⚜ Type : LINE INDEXBOTS JS\n\
 ───⚜ Version: VERSION KW SERIES\n\
 ───⚜ Thanks to @Alfathdirk @TCR_TEAM\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-\nNB : Bot Ini Dibuat Oleh @Alfathdirk @TCR_TEAM Dan Di Remake Oleh @TRIO_PEKOK_BOTS \n\
+\nNB : Bot Ini Dibuat Oleh @Alfathdirk @TCR_TEAM Dan Di Remake Oleh @TRIO_INDEX_BOTS \n\
 ***Copyright belongs to the author***");
 
 /*
@@ -49,12 +49,12 @@ console.info("\n\
 | 
 | Change it to your authToken / your email & password
 */
-//TRIO_PEKOK_PROTECTION
+//TRIO_INDEXBOTS_PROTECTION
 
 const auth = {
     authToken: '',
 	certificate: '',
-	email: 'akunbotketigaku@gmail.com',
+	email: 'tanknug1983@gmail.com',
 	password: 'basyirjalu026'
 }
 
