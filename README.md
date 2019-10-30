@@ -24,18 +24,18 @@ cd src
 npm install
 npm start
 
-versionbot.js  pr official 
-   
    
 ```
-##    <div class="line-it-button" data-lang="th" data-type="share-b" data-ver="3" data-url="https://api.github.com/orgs/:org/members/v3/share" data-color="default" data-size="large" data-count="true" style="display: none;"></div>
-       <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+##   versionbot.js  pr official 
+     
+      <div class="line-it-button" data-lang="th" data-type="share-b" data-ver="3" data-url="https://api.github.com/orgs/:org/members/v3/share" data-color="default" data-size="large" data-count="true" style="display: none;"></div>
+         <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
       <div class="line-it-button" data-lang="th" data-type="friend" data-lineid="@642xtzwc" data-count="true" data-home="true" style="display: none;"></div>
         <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
-         <div class="line-it-button" data-lang="th" data-type="like" data-url="https://line.me/R/ti/p/~ptatan1983" data-share="true" style="display: none;"></div>
-       <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+           <div class="line-it-button" data-lang="th" data-type="like" data-url="https://line.me/R/ti/p/~ptatan1983" data-share="true" style="display: none;"></div>
+         <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
       <div class="line-it-button" data-lang="th" data-type="like" data-url="https://line.me/R/ti/p/~ptatan1983" data-share="true" style="display: none;"></div>
-       <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+         <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 For List
 ```
 ╼━━━━━━─━━━━━━╾
