@@ -31,7 +31,7 @@ npm install
 npm start
 
      
-#    For List
+#  versionbot.js    For List
 ╼━━━━━━─━━━━━━╾
 📌 TRIO INEX BOTS 📌
 📌 Open Order 📌
