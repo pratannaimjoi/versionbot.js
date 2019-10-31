@@ -31,8 +31,7 @@ npm install
 npm start
 
      
-      For List
-```
+#    For List
 ╼━━━━━━─━━━━━━╾
 📌 TRIO INEX BOTS 📌
 📌 Open Order 📌
