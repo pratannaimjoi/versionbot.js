@@ -1,5 +1,5 @@
 #  versionbot.js
-[![TrioPekokBots](square-default.png?s=460&v=4)]( )
+[![TrioPekokBots](line_sm.png?s=460&v=4)]( )
 
       <div class="line-it-button" data-lang="th" data-type="share-c" data-ver="3" data-url="https://social-plugins.line.me/th/how_to_install#lineitbutton" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
     <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
