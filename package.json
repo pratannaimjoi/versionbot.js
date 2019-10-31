@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bukankaleng/testi-js.git"
+    "url": "git+https://github.com/tanpattaya/testi-js.git"
   },
-  "author": "©Basyir <tebakakusiapa026@gmail.com>",
+  "author": "©Basyir <tanknug1983@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
@@ -29,9 +29,9 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://github.com/bukankaleng/testi-js/issues"
+    "url": "https://github.com/tanpattaya/testi-js/issues"
   },
-  "homepage": "https://github.com/bukankaleng",
+  "homepage": "https://github.com/tanpattaya",
   "keywords": [
     "tpb"
   ]
