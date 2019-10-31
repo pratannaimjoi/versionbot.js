@@ -60,7 +60,7 @@ line.me/ti/p/~ptatan1983
 ╼━━━━━━─━━━━━━╾
 
 ```
-*Remake by: TRIO INEX BOTS*
+*Remake by: TRIO INDEX BOTS*
 INEX BOTS BY / [@pratannaimjoi](https://www.instagram.com/pratannaimjoi)
 - UPDATE IN
 9 MARET 2019
