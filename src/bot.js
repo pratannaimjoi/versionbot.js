@@ -37,7 +37,7 @@ console.info("\n\
 ★─ https://line.me/R/ti/p/~ptatan1983.titipan ─★\n");
 console.info("\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───💥 Type : LINE PEKOK JS\n\
+───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ JS\n\
 ───💥 Version: VERSION KW SERIES\n\
 ───💥 Thanks to @Alfathdirk @TCR_TEAM\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
