@@ -1,14 +1,14 @@
 #  versionbot.js
 [![TrioPekokBots](line_sm.png?s=460&v=4)]( )
-   http://nav.cx/BITI7pI
-     <img src="https://qr-official.line.me/sid/M/642xtzwc.png">
-   <a href="http://nav.cx/BITI7pI"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
-      <div class="line-it-button" data-lang="th" data-type="share-b" data-ver="3" data-url="https://line.me/R/ti/p/~ptatan1983" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
-    <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
-     <div class="line-it-button" data-lang="th" data-type="friend" data-lineid="@642xtzwc" data-count="true" data-home="true" style="display: none;"></div>
-    <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
-   <div class="line-it-button" data-lang="th" data-type="like" data-url="https://github.com/tanpattaya/versionbot.js" data-share="true" style="display: none;"></div>
-     <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+#  line pr       http://nav.cx/BITI7pI
+         <img src="https://qr-official.line.me/sid/M/642xtzwc.png">
+        <a href="http://nav.cx/BITI7pI"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
+          <div class="line-it-button" data-lang="th" data-type="share-b" data-ver="3" data-url="https://line.me/R/ti/p/~ptatan1983" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
+        <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+          <div class="line-it-button" data-lang="th" data-type="friend" data-lineid="@642xtzwc" data-count="true" data-home="true" style="display: none;"></div>
+        <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+         <div class="line-it-button" data-lang="th" data-type="like" data-url="https://github.com/tanpattaya/versionbot.js" data-share="true" style="display: none;"></div>
+        <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
       
 # NEW VERSION BETA JS
 
