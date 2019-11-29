@@ -1,7 +1,7 @@
 #  versionbot.js
 [![TrioPekokBots](line_sm.png?s=460&v=4)]( )
-#  line pr       https://line.me/R/ti/p/%40642xtzwc
-                 https://line.me/R/ti/p/~ptatan1983
+#  line pr        <https://line.me/R/ti/p/%40642xtzwc>
+                  <https://line.me/R/ti/p/~ptatan1983>
 # NEW VERSION BETA JS
 
  CHAT ME
