@@ -33,7 +33,7 @@ console.info("\n\
 ───────██───██────██   ██────\n\
 ───────██───██────█████────\n\
 ★═══════════★★══════════★\n\
-★─  https://line.me/ti/p/~tanpattaya1983.goblog ─★\n\
+★─  https://line.me/ti/p/~tanbandan1983.goblog ─★\n\
 ★─ https://line.me/R/ti/p/~ptatan1983.titipan ─★\n");
 console.info("\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
