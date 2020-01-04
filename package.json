@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/tanpattaya/testi-js.git"
   },
-  "author": "©Basyir <tanknug1983@gmail.com>",
+  "author": "©Basyir <pratannaimjoi@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
