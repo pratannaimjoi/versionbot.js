@@ -1,5 +1,5 @@
 {
-  "name": "LINE-PEKOK-JS",
+  "name": "LINE-BOTJS-JS",
   "version": "6.9.0",
   "description": "BOT LINE",
   "main": "./src/main.js",
