@@ -54,7 +54,7 @@ console.info("\n\
 const auth = {
     authToken: '',
 	certificate: '',
-	email: 'tanknug1983@gmail.com',
+	email: 'pratannaimjoi@gmail.com',
 	password: 'basyirjalu026'
 }
 
