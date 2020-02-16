@@ -15,7 +15,7 @@
 pkg update
 pkg upgrade
 pkg install git
-git clone https://github.com/tanpattaya/versionbot.js
+git clone https://github.com/pratannaimjoi 
 pkg install nodejs
 pkg install coreutils
 pkg install nodejs-current -y
