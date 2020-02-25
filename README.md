@@ -26,29 +26,7 @@ cd src
 npm install
 npm start
 
-     
-*    For List
-╼━━━━━━─━━━━━━╾
-📌 TRIO INEX BOTS 📌
-📌 Open Order 📌
-╼━━━━━━─━━━━━━╾
-💥 Selfbot biasa
-💥 Selfbot biasa + antijs
-💥 Selfbot template
-💥 Selfbot template + antijs
-💥 Selfbot protect
-💥 Selfbot protect + antijs
-💥 Bot protect cl
-💥 Bot protect cl + antijs
-╼━━━━━━─━━━━━━╾
-📌 Open Jasa
-╼━━━━━━─━━━━━━╾
-💥 Login bypass
-💥 Spam invite
-💥 Spam mc
-💥 Open Vps 
-💥 Token primary 
-╼━━━━━━─━━━━━━╾
+```
 line.me/ti/p/~tanpattaya1983.titipan
 line.me/ti/p/~ptatan1983
 ╼━━━━━━─━━━━━━╾
