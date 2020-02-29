@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanpattaya/testi-js.git"
+    "url": "git+https://github.com/pratannaimjoi/testi-js.git"
   },
   "author": "©Basyir <pratannaimjoi@gmail.com>",
   "license": "MIT",
@@ -29,9 +29,9 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://github.com/tanpattaya/testi-js/issues"
+    "url": "https://github.com/pratannaimjoi/testi-js/issues"
   },
-  "homepage": "https://github.com/tanpattaya",
+  "homepage": "https://github.com/pratannaimjoi",
   "keywords": [
     "tpb"
   ]
