@@ -34,14 +34,14 @@ console.info("\n\
 ───────██───██────█████────\n\
 ★═══════════★★══════════★\n\
 ★─  https://line.me/ti/p/~tanbandan1983.goblog ─★\n\
-★─ https://line.me/R/ti/p/~ptatan1983.titipan ─★\n");
+★─ https://line.me/ti/p/~ptatan1983.titipan ─★\n");
 console.info("\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
 ───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ JS\n\
 ───💥 Version: VERSION KW SERIES\n\
-───💥 Thanks to @Alfathdirk @TCR_TEAM\n\
+───💥 Thanks to @pratannaimjoi @TANBOTMEVERDIE✯͜͡❂➣TEAM\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-\nNB : Bot Ini Dibuat Oleh @Alfathdirk @TCR_TEAM Dan Di Remake Oleh @TRIO_PEKOK_BOTS \n\
+\nNB : Bot Ini Dibuat Oleh @pratannaimjoi @TANBOTMEVERDIE✯͜͡❂➣TEAM Dan Di Remake Oleh @pratannaimjoiBOTS \n\
 ***Copyright belongs to the author***");
 
 /*
