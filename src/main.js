@@ -8,7 +8,7 @@ const rp = require('request-promise');
 const config = require('./config');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
-const myBot = ['uaf602c7210b2abc5227d7e66a102f0d9','uaed33f60ed0b0d5ee5b33cc5c979d770'];
+const myBot = ['0f6c032e5170a6ad4091e76aedb01940','627ee60ee1af1401991c63991dcd8cd4'];
 const banList = [];//Banned list
 var http = require("http");  
 http.createServer(function (request, response) {  
@@ -21,9 +21,6 @@ http.createServer(function (request, response) {
 }).listen(8081);  
 // Console will print the message  
 console.log('Server running at http://127.0.0.1:8081/');
-var groupList = new Array();//Group list
-var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
-const imgArr = ['png','jpg','jpeg','gif','bmp','webp'];//DO NOT CHANGE THIS
 var komenTL = "AutoLike by nTRIO TANBOTMEVERDIE✯͜͡❂➣ BOTS\n≽ VERSION JS\nline://ti/p/~ptatan1983"; //Comment for timeline
 var bcText = "Masukan teks untuk broadcast";
 var limitposts = '10'; //Output timeline post
