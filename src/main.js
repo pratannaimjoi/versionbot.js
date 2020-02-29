@@ -10,6 +10,17 @@ const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
 const myBot = ['uaf602c7210b2abc5227d7e66a102f0d9','uaed33f60ed0b0d5ee5b33cc5c979d770'];
 const banList = [];//Banned list
+var http = require("http");  
+http.createServer(function (request, response) {  
+ // Send the HTTP header   
+   // HTTP Status: 200 : OK  
+   // Content Type: text/plain  
+   response.writeHead(200, {'Content-Type': 'text/plain'});  
+   // Send the response body as "Hello World"  
+   response.end('Hello World\n');  
+}).listen(8081);  
+// Console will print the message  
+console.log('Server running at http://127.0.0.1:8081/');
 var groupList = new Array();//Group list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
 const imgArr = ['png','jpg','jpeg','gif','bmp','webp'];//DO NOT CHANGE THIS
