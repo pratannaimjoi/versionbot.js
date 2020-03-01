@@ -6,12 +6,19 @@ BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
 Thanks to @pratannaimjoi @✯͜͡❂➣TANBOTNEVERDIE✯͜͡❂➣TEAM\n\
 =========================================\n\
+★═══════════★★══════════★\n\
+━═✧✯͜͡❂➣TANBOTNEVERDIE✯͜͡❂➣✧═━
+
 \nNOTE : This bot is made by @pratannaimjoi @✯͜͡❂➣TANBOTNEVERDIE✯͜͡❂➣TEAM !");
 
 /*
 | This constant is for auth/login
 | 
 | Change it to your authToken / your email & password
+your email & password
+*/
+//TRIO_꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂_PROTECTION
+*/
 */
 const auth = {
 	authToken: '',
