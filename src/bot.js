@@ -1,61 +1,23 @@
 const LineConnect = require('./connect');
 const LINE = require('./main.js');
-const fs = require('fs');
 console.info("\n\
-..¶¶¶¶¶¶¶¶7………………………………$¶¶¶¶¶$\n\
-….¶¶¶¶¶¶¶¶¶¢…………………………¶¶¶¶¶¶¶$\n\
-….ø¶¶¶¶¶$¶¶¶¶……………………..¢¶¶¶¶¶¶¶$\n\
-……¶¶¶¶¶¶¶¶¶¶¶¶………………….¶¶¶¶¶¶¶¶ø\n\
-……..¶¶¶¶¶¶¶¶¶¶¶¶¢…………….¶¶¶¶¶¶¶¶¶o\n\
-…………¶¶¶¶¶¶¶¶¶¶¶¶…………..¶¶¶¶¶¶¶¶¶\n\
-…………..¢¶¶¶¶¶¶¶¶¶¶¶…………¶¶¶¶¶¶¶¶¶\n\
-………………¶¶¶¶¶$¶¶¶¶¶7……o¶¶¶¶¶¶¶¶7\n\
-………………….7¶¶¶¶¶¶¶¶¶¶….o¶¶¶¶¶¶¶¶\n\
-……………………….o¶¶¶¶¶¶¶¶….¶¶¶¶¶¶¶\n\
-………………………………….$¶¶¶o¶¶¶¶¶¶\n\
-……………………….o¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-………………….¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-………………¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶7\n\
-…………….¶¶¶ø……¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-…………..¶¶¶¶……….¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-…………¶¶¶¶¶¶……¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-…………¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-…………¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-…………..¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-………………¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-………………….7¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-…………………………o¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n\
-……………………………¶¶¶¶¶¶¶¶¶¶¶¶¶1\n\
-★═══════════★★══════════★\n\
-─────██████─█████─█████────\n\
-───────██───██   ██─██   ██────\n\
-───────██───█████─████─────\n\
-───────██───██────██   ██────\n\
-───────██───██────█████────\n\
-★═══════════★★══════════★\n\
-★─  https://line.me/ti/p/~tanbandan1983.goblog ─★\n\
-★─ https://line.me/ti/p/~ptatan1983.titipan ─★\n");
-console.info("\n\
-★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ JS\n\
-───💥 Version: VERSION KW SERIES\n\
-───💥 Thanks to @pratannaimjoi @TANBOTMEVERDIE✯͜͡❂➣TEAM\n\
-★═─═─═─═─═─★★─═─═─═─═─═★\n\
-\nNB : Bot Ini Dibuat Oleh @pratannaimjoi @TANBOTMEVERDIE✯͜͡❂➣TEAM Dan Di Remake Oleh @pratannaimjoiBOTS \n\
-***Copyright belongs to the author***");
+=========================================\n\
+BotName: LINE Alphat JS\n\
+Version: TJ VERSION\n\
+Thanks to @Alfathdirk @TCR_TEAM\n\
+=========================================\n\
+\nNOTE : This bot is made by @Alfathdirk @TCR_TEAM !");
 
 /*
 | This constant is for auth/login
 | 
 | Change it to your authToken / your email & password
 */
-//TRIO_꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂_PROTECTION
-
 const auth = {
-    authToken: '',
+	authToken: '',
 	certificate: '',
-	email: 'pratannaimjoi@gmail.com',
-	password: 'basyirjalu026'
+	email: '',
+	password: ''
 }
 
 let client =  new LineConnect();
