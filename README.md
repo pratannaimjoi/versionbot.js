@@ -27,7 +27,7 @@ npm install
 npm start
 
 ```
-line.me/ti/p/~tanpattaya1983.titipan
+line.me/ti/p/~tanpattaya1983
 line.me/ti/p/~ptatan1983
 ╼━━━━━━─━━━━━━╾
 
